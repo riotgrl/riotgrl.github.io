@@ -1,11 +1,11 @@
 # Site settings
 author: Sunny Bogden
-title: 
+title: Hit Nurse
 header-img: img/home-bg.png
 email: sunnybogden@hotmail.com
 copyright_name: Sunny Bogden
 description: > # this means to ignore newlines until "baseurl:"
-  
+  (RN to HIT)
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  riotgrl
