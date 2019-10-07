@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Journey From RN to IT"
-date:       2019-10-07 01:02:45 +0000
+date:       2019-10-06 21:02:46 -0400
 permalink:  my_journey_from_rn_to_it
 ---
 
